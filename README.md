@@ -28,4 +28,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/Shivam_Chavan_7)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=profile)](https://personal-portfolio-2axj.onrender.com/)
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=shivam-chavan-17)
+
 Thanks for visiting! Have a great day! 😊
